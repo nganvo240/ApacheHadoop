@@ -1,0 +1,10 @@
+E:\3nd year\hk2\Cloud computing\Project cuối kì\HadoopOnUbuntu\bin\Debug\HadoopOnUbuntu.exe.config
+E:\3nd year\hk2\Cloud computing\Project cuối kì\HadoopOnUbuntu\bin\Debug\HadoopOnUbuntu.exe
+E:\3nd year\hk2\Cloud computing\Project cuối kì\HadoopOnUbuntu\bin\Debug\HadoopOnUbuntu.pdb
+E:\3nd year\hk2\Cloud computing\Project cuối kì\HadoopOnUbuntu\obj\Debug\HadoopOnUbuntu.csprojAssemblyReference.cache
+E:\3nd year\hk2\Cloud computing\Project cuối kì\HadoopOnUbuntu\obj\Debug\HadoopOnUbuntu.Form1.resources
+E:\3nd year\hk2\Cloud computing\Project cuối kì\HadoopOnUbuntu\obj\Debug\HadoopOnUbuntu.Properties.Resources.resources
+E:\3nd year\hk2\Cloud computing\Project cuối kì\HadoopOnUbuntu\obj\Debug\HadoopOnUbuntu.csproj.GenerateResource.cache
+E:\3nd year\hk2\Cloud computing\Project cuối kì\HadoopOnUbuntu\obj\Debug\HadoopOnUbuntu.csproj.CoreCompileInputs.cache
+E:\3nd year\hk2\Cloud computing\Project cuối kì\HadoopOnUbuntu\obj\Debug\HadoopOnUbuntu.exe
+E:\3nd year\hk2\Cloud computing\Project cuối kì\HadoopOnUbuntu\obj\Debug\HadoopOnUbuntu.pdb
